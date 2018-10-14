@@ -12,7 +12,7 @@ namespace Api.Controllers
     {
         public IActionResult Index()
         {
-            int i = 0
+            int i = 0;
 
             return View();
         }
